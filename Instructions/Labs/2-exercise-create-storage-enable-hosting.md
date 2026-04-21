@@ -1,10 +1,10 @@
 ---
 lab:
-    title: 'Exercise - Create storage account and enable hosting'
-    description: 'Exercise - Create storage account and enable hosting'
-    duration: '7 minutes'
-    level: 300 <!-- 100 basic concepts, 200 foundations, 300 practical usage, 400 advanced scenarios, 500 expert design -->
-    islab: true <!-- if not a lab, remove -->
+  title: Exercise - Create storage account and enable hosting
+  description: Exercise - Create storage account and enable hosting
+  duration: 7 minutes
+  level: 200
+  islab: true
 ---
 
 This guided project consists of the following exercises:
